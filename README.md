@@ -1,21 +1,60 @@
-# Project Name
+# Flowlaunch
 
-A brief description of your project.
+This project is a Next.js application for showcasing products fetched from an external API. It includes features such as search functionality and detailed product pages.
 
-## Installation
+## Live Demo
 
-1. Clone the repository: `git clone https://github.com/praveensaharan/Flowlaunch.git`
-2. Install dependencies: `npm install`
+You can access the live demo of the application [here](https://flowlaunch-seven.vercel.app/).
 
-## Usage
+## Getting Started
 
-1. Run the development server: `npm run dev`
-2. Open [http://localhost:3000](http://localhost:3000) in your browser.
+To get a local copy up and running, follow these simple steps.
 
-## Contributing
+### Prerequisites
 
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
+Make sure you have the following installed:
 
-## License
+- [Node.js](https://nodejs.org/) (version 12.x or later)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
-This project is licensed under the [MIT License](LICENSE).
+### Installation
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/praveensaharan/Flowlaunch.git
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```sh
+   cd Flowlaunch
+   ```
+
+3. **Install the dependencies:**
+   ```sh
+   npm install
+   ```
+   or
+   ```sh
+   yarn install
+   ```
+
+### Running the Application Locally
+
+1. **Start the development server:**
+
+   ```sh
+   npm run dev
+   ```
+
+   or
+
+   ```sh
+   yarn dev
+   ```
+
+2. **Open your browser and go to:**
+   ```
+   http://localhost:3000
+   ```
